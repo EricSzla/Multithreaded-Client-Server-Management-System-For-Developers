@@ -1,2 +1,4 @@
+EXAMPLE FILE ONLY, NEVER STORE PASSWORDS AS PLAIN TEXT.
+
 testuser|password
 testuser2|password
