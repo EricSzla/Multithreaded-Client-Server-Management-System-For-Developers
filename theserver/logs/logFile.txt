@@ -1,0 +1,52 @@
+
+
+User: badUserLogin | Invalid Login | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Invalid Password | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Invalid Password | 28_04_2018
+User: testuser | Invalid Password | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Invalid Password | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser2 | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser2 | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser2 | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser2 | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: bla.html at department: sales/bla.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: bla.html at department: sales/bla.html | 28_04_2018
