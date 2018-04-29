@@ -1,5 +1,3 @@
-
-
 User: badUserLogin | Invalid Login | 28_04_2018
 User: testuser | Authenticated | 28_04_2018
 User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
@@ -48,5 +46,29 @@ User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
 User: testuser | Authenticated | 28_04_2018
 User:  | Modified file: bla.html at department: sales/bla.html | 28_04_2018
 User: testuser | Authenticated | 28_04_2018
-User: testuser | Authenticated | 28_04_2018
 User:  | Modified file: bla.html at department: sales/bla.html | 28_04_2018
+User: testuser | Authenticated | 28_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 28_04_2018
+
+User: testuser | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser2 | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser2 | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser2 | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser2 | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018
+User: testuser2 | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: offers/index.html | 29_04_2018
+User: testuser | Authenticated | 29_04_2018
+User:  | Modified file: index.html at department: sales/index.html | 29_04_2018

@@ -29,6 +29,11 @@ pthread_mutex_t lock_authFile;
 pthread_mutex_t lock_file;
 
 int main(int argc, char *argv[] ){
+	if(argc < 2){
+		printf("Port is required follow the format:\n");
+		printf("./server PORT e.g. ./server 8080\n");
+		exit(EXIT_FAILURE);
+	}
 	int PORT = atoi(argv[1]);
 	sock = socket(AF_INET, SOCK_STREAM, 0);
 	if(sock == -1){
@@ -214,7 +219,7 @@ int splitMessage(char *pStr){
 
 // Function that authent/icate the user.
 int authenticate(char *login, char *password){
-	printf("Authenticating user: %s\n", login);
+	printf("\nAuthenticating user: %s\n", login);
 	g_usr = login;
 	pthread_mutex_lock(&lock_authFile);
 	FILE *file;
